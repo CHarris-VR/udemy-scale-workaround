@@ -20,8 +20,16 @@ According to [Reddit](https://www.reddit.com/r/Udemy/comments/1rvqs60/comment/oc
 
 ![Reddit Post](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/redditpost.png)
 
-![code fix](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/codefix.png)
+### Div Specific Class Issue
 ![Devtool Picture](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/devtoolpicture.png)
+
+### Code Fix and Stylus Extnsion Usage
+![code fix](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/codefix.png)
+
+
+### Before / After
+Last but not least just showing the original issue and the finished soultion. 
 ![Original Issue](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/originissue.png)
+
 
 ![Resolved Issue](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/resolvedissue.png)
