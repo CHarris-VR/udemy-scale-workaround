@@ -21,10 +21,23 @@ According to [Reddit](https://www.reddit.com/r/Udemy/comments/1rvqs60/comment/oc
 ![Reddit Post](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/redditpost.png)
 
 ### Div Specific Class Issue
-![Devtool Picture](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/devtoolpicture.png)
 
-### Code Fix and Stylus Extnsion Usage
+The issue will be shown here related to the div known as "curriculum-item-view--scaled-height-limtiter"
+![Devtool Picture](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/devtoolpicture.png)
+Which I believe should be fixed within the websites own code so that thrid party extensions don't need to be utilized.
+
+
+### Code Fix and Stylus Extnsion Utilization
 ![code fix](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/codefix.png)
+
+If you would like to directly copy and utilize the code I have the code snippit for my specific scaled height limiter, yours may be different so make sure to check the last bit of text and numbers that may be attached after "limiter"
+
+```css
+.curriculum-item-view--scaled-height-limiter--lEOjL {
+    max-block-size: none !important;
+    height: 70vh !important;
+}
+```
 
 
 ### Before / After
