@@ -30,7 +30,7 @@ Which I believe should be fixed within the websites own code so that thrid party
 ### Code Fix and Stylus Extnsion Utilization
 ![code fix](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/codefix.png)
 
-If you would like to directly copy and utilize the code I have the code snippit for my specific scaled height limiter, yours may be different so make sure to check the last bit of text and numbers that may be attached after "limiter"
+If you would like to directly copy and utilize the code I have the code snippit for my specific scaled height limiter, yours may be different so ___make sure to check the last bit of text and numbers that may be attached after "limiter"___
 
 ```css
 .curriculum-item-view--scaled-height-limiter--lEOjL {
