@@ -40,6 +40,17 @@ If you would like to directly copy and utilize the code I have the code snippit 
 }
 ```
 
+### How to set Up Fix for Google Chrome
+- Make sure you are using Stylus extension for Google Chrome
+- Make sure the code is pointing towards "URLs Starting With:" https://www.udemy"
+- Add the code to the coding section
+- Give it a memorable name and Save changes
+
+All pages regarding udemy will be up to date with your fixes and changes. 
+
+___NOTE___:  My height is different than what is recommended in the above reddit post that has the fix and the related issues, I like having a bit of the view height to show the underside tabs. so instead of making the scaled hieght 100% of the view I made it 70% aka the 70vh.
+
+
 
 ### Before / After
 Last but not least just showing the original issue and the finished soultion. 
