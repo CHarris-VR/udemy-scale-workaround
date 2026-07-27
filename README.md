@@ -24,6 +24,7 @@ According to [Reddit](https://www.reddit.com/r/Udemy/comments/1rvqs60/comment/oc
 
 The issue will be shown here related to the div known as "curriculum-item-view--scaled-height-limtiter"
 ![Devtool Picture](https://github.com/CHarris-VR/udemy-scale-workaround/blob/main/pictures/devtoolpicture.png)
+
 Which I believe should be fixed within the websites own code so that thrid party extensions don't need to be utilized.
 
 
